@@ -1,0 +1,2 @@
+common:
+  message: Config loaded from GitHub Config Server!
